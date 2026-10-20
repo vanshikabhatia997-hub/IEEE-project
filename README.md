@@ -74,3 +74,4 @@ more complex dataset such as the Mushroom dataset, which requires encoding categ
 ## Files
 - `iris_classification.ipynb`: the full notebook with outputs
 - `README.md`: this file
+To test the model: streamlit run app.py 
